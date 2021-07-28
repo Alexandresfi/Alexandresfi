@@ -2,7 +2,7 @@
 - 👀 Tenho interesse na área de programação, front e back end
 - 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT e estou estudando React js
 - 💞️ Meu objetivo desenvolver sites, aplicativos e resolver possíveis problemas nestas áreas.
-- 📫 Você pode me encontrar no https://www.linkedin.com/feed/ e pelo e-mail: alexandre.sfi@hotmail.com
+- 📫 Você pode me encontrar no https://www.linkedin.com/feed/ e pelo e-mail: alexandre.devfront@hotmail.com
 
 <!---
 Alexandresfi/Alexandresfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
