@@ -1,6 +1,4 @@
-- 🌱 Atualmente tenho conhecimentos em HTML, CSS, JAVASCRIPT e React js
-- 🤩 Atualmente venho estudando Node JS
-- 💞️ Meu objetivo desenvolver sites, aplicativos e resolver possíveis problemas nestas áreas.
+
 
 
 <!---
@@ -8,6 +6,11 @@ Alexandresfi/Alexandresfi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Oiii! Eu sou a Alexandre Nascimento
+
+## - 🌱 Atualmente tenho conhecimentos em HTML, CSS, JAVASCRIPT e React js
+## - 🤩 Atualmente venho estudando Node JS
+## - 💞️ Meu objetivo desenvolver sites, aplicativos e resolver possíveis problemas nestas áreas.
+
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandresfi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
