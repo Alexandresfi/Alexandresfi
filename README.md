@@ -1,10 +1,8 @@
 
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 
 
-<!---
-Alexandresfi/Alexandresfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Oiii! Eu sou a Alexandre Nascimento
 
 ## - 🌱 Atualmente tenho conhecimentos em HTML, CSS, JAVASCRIPT e React js
