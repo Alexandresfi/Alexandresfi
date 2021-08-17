@@ -1,6 +1,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandresfi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandresfi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 ## Oiii! Eu sou a Alexandre Nascimento
