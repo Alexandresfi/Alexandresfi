@@ -8,12 +8,15 @@
 Alexandresfi/Alexandresfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou a Alexandre Nascimento
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandresfi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
