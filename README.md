@@ -1,5 +1,3 @@
-- 👋 Olá, eu sou Alexandre Nascimento
-- 👀 Tenho interesse na área de desenvolvimento web, front e back end
 - 🌱 Atualmente tenho conhecimentos em HTML, CSS, JAVASCRIPT e React js
 - 🤩 Atualmente venho estudando Node JS
 - 💞️ Meu objetivo desenvolver sites, aplicativos e resolver possíveis problemas nestas áreas.
