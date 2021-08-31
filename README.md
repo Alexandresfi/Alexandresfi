@@ -10,6 +10,8 @@
  <li> <strong>Styled-components</strong></li>
  <li> <strong>React Router</strong> </li>
  <li> <strong>Context API</strong></li>
+ <li> <strong>Node js</strong></li>
+ <li> <strong>API Rest</strong></li>
  </ul>
  
 
