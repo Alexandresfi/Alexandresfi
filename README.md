@@ -1,7 +1,7 @@
 ## Olá, meu nome é <strong>Alexandre Nascimento</strong>
 <img align="right" width="280" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-> Atualmente tenho conhecimentos e experiência em HMTL CSS, JAVASCRIPT, REACT JS e venho estudando NODE JS
+> Experiências profissionais com HMTL CSS, JAVASCRIPT, REACT JS, VTEX IO, STYLED-COMPONENTS, FORMIK, FIGMA, XD, GRAPHQL E VENHO ESTUDANDO NODE JS
 
 🔭 Meu projeto mais recente é o Escola Organizada, que foi construido utilizando as seguintes tecnologias:
 <ul>
