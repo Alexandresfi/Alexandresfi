@@ -13,7 +13,7 @@
  <li> <strong> Styled-components </strong></li>
  <li> <strong> Material UI </strong></li>
  <li> <strong> Consumo de API </strong></li>
- <li> <strong> Context API </strong></li>
+ <li> <strong> Layouts baseados no Figma ou XD </strong></li>
  <li> <strong> Node js </strong></li>
  <li> <strong> Sequelize </strong></li>
  <li> <strong> Postgres </strong></li>
