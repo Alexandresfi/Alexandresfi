@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>Alexandre Nascimento</strong>
+## Olá, Seja bem-vind@, sou <strong>Alexandre Nascimento</strong>
 <img align="right" width="280" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 > Experiências profissionais com HMTL CSS, JAVASCRIPT, REACT JS, VTEX IO, STYLED-COMPONENTS, FORMIK, FIGMA, XD, GRAPHQL E VENHO ESTUDANDO NODE JS
