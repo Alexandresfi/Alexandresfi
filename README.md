@@ -3,15 +3,22 @@
 
 > Experiências profissionais com HMTL CSS, JAVASCRIPT, REACT JS, VTEX IO, STYLED-COMPONENTS, FORMIK, FIGMA, XD, GRAPHQL E VENHO ESTUDANDO NODE JS
 
-🔭 Meu projeto mais recente é o Escola Organizada, que foi construido utilizando as seguintes tecnologias:
+## 🚀 Minhas Skills
 <ul>
- <li> <strong> React js</strong></li>
- <li> <strong> Hoocks</strong> </li>
- <li> <strong>Styled-components</strong></li>
- <li> <strong>React Router</strong> </li>
- <li> <strong>Context API</strong></li>
- <li> <strong>Node js</strong></li>
- <li> <strong>API Rest</strong></li>
+ <li> <strong> React js e Taypescript </strong></li>
+ <li> <strong> Hoocks </strong> </li>
+ <li> <strong> Gerenciamento de hoocks: Context-API e Redux </strong></li>
+ <li> <strong> React Router </strong> </li>
+ <li> <strong> Styled-components </strong></li>
+ <li> <strong> Material UI </strong></li>
+ <li> <strong> Consumo de API </strong></li>
+ <li> <strong> Context API </strong></li>
+ <li> <strong> Node js </strong></li>
+ <li> <strong> Sequelize </strong></li>
+ <li> <strong> Postgres </strong></li>
+ <li> <strong> Mongo DB </strong></li>
+ <li> <strong> JWT </strong></li>
+ <li> <strong> Gitflow </strong></li>
  </ul>
  
 
@@ -24,15 +31,9 @@
 </div>
 
 
-## 🚀 Minhas Skills
+## 💻 Projeto mais recente:
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+O projeto mais recente é um projeto full stack que é o <a href="https://github.com/Alexandresfi/EscolaOrganizada"> Escola Organizada (Front-end) </a> o qual está passando por uma refatoração de layout, as atualizações estão sendo feitas via gitflow, sendo assim, as atualizações estão na branch develop. Este projeto será integrado com o back-end <a href="https://github.com/Alexandresfi/api-escola-organizada.git"> API Escola Organizada </a>
 
 ## **GitHub Estatísticas**
 <div>
