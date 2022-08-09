@@ -6,6 +6,7 @@
 ## 🚀 Minhas Skills
 <ul>
  <li> <strong> React js e Taypescript </strong></li>
+ <li> <strong> Vtex IO </strong></li>
  <li> <strong> Hoocks </strong> </li>
  <li> <strong> Gerenciamento de hoocks: Context-API e Redux </strong></li>
  <li> <strong> React Router </strong> </li>
