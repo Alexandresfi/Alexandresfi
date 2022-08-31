@@ -14,6 +14,7 @@ API's, POSTGRES, SEQUELIZE E SASS
  <li> <strong> React Router </strong> </li>
  <li> <strong> Styled-components </strong></li>
  <li> <strong> Material UI </strong></li>
+ <li> <strong> Bootstrap </strong></li>
  <li> <strong> Consumo de API </strong></li>
  <li> <strong> Layouts baseados no Figma ou XD </strong></li>
  <li> <strong> Node js </strong></li>
