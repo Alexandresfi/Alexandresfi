@@ -7,11 +7,12 @@ API's, POSTGRES, SEQUELIZE E SASS
 
 ## 🚀 Minhas Skills
 <ul>
- <li> <strong> React js e Taypescript </strong></li>
+ <li> <strong> React js, Next js e Typescript </strong></li>
  <li> <strong> Vtex IO </strong></li>
- <li> <strong> Hoocks </strong> </li>
- <li> <strong> Gerenciamento de hoocks: Context-API e Redux </strong></li>
+ <li> <strong> Hooks, SSR </strong> </li>
+ <li> <strong> Gerenciamento de hooks: Context-API e Redux </strong></li>
  <li> <strong> React Router </strong> </li>
+ <li> <strong> tailwind CSS </strong></li>
  <li> <strong> Styled-components </strong></li>
  <li> <strong> Material UI </strong></li>
  <li> <strong> Bootstrap </strong></li>
